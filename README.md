@@ -5,7 +5,7 @@ This repository contains the notebooks for all the sessions that were taken as a
 ## Downloading this repo:
 You can type the following command in your terminal to download this repository:
 <pre>```
-git clone https://github.com/MandaKausthubh/AIM101-Statistics-For-DataScience-2025.git 
+git clone https://github.com/MandaKausthubh/AIM101-Statistics-For-DataScience-2025.git
 ```</pre>
 
 If you have already downloaded this repository, but want the latest version:
